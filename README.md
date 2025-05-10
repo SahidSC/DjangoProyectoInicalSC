@@ -1,0 +1,2 @@
+# DjangoProyectoInicalSC
+django + postgresql
